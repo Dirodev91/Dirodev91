@@ -41,7 +41,7 @@
         </div>
     </nav>
     <div class="container">
-
+        <?php phpinfo(); ?>
         <h1>Hello, world!</h1>
     </div>
 
